@@ -1,0 +1,33 @@
+html{
+    text-align: center;
+    background-color: aqua;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: gray;
+}
+
+#container {
+    grid-template-columns: repeat(16, 1fr);
+    grid-template-rows: repeat(16, 1fr);
+    border: 5px solid black;
+    display: inline-grid;
+    width: 250px;
+    height: 250px;
+}
+
+label{
+    font-size: 15px;
+}
+
+.color{
+    background-color: burlywood;
+    border: 1px solid yellow;
+}
+
+.box{
+    background-color: white;
+    border: 1px solid black;
+}
+
+.reset{
+    background-color: greenyellow;
+}
