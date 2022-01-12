@@ -7,3 +7,5 @@ In this project, prompted by The Odin Project course, I created an etch-a-sketch
 Technologies:
 
 HTML - CSS - Javascript
+
+Live demo: https://dhary-anne.github.io/etch-a-sketch/
